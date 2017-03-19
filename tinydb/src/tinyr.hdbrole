@@ -1,0 +1,10 @@
+{
+	"role":{
+		"name":	"tinyworld.tinydb::tinyuser",
+		"schema_analytic_privileges": [
+		{
+			"privileges": [ "tinyp" ]
+		}
+		]
+	}
+}
