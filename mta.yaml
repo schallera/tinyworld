@@ -1,7 +1,7 @@
 _schema-version: '2.0'
-ID: com.stelacon.tinyworld
+ID: com.stelacon.xsa.tinyworld
 description: my first tinyworld app
-version: 0.0.1
+version: 1.0.0
 
 modules:
  - name: tinydb
